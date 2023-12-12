@@ -7,7 +7,7 @@ Este repositorio sirve para almacenar el código fuente de CW The Game, ir contr
 
 Se iran guardando las versiones del código a medida que se va actualizando el juego, y otras versiones *alphatest* y *betatest* para asegurar una buena calidad del software.
 
-***El código fuente y recursos del juego van a estar almacenado en un archivo ".yyz" (proyecto de GameMaker Studio 2), lo cual, se necesitará obligatoriamente el software _GameMaker Studio 2_***
+***El código fuente y recursos del juego van a estar almacenado en un archivo ".yyz" (proyecto de GameMaker Studio 2), lo cual, se necesitará obligatoriamente el software _GameMaker Studio 2_***.
 
 ### Instalación y compilación
 Al ser un archivo propio de un software, solo se requerirá cargar el archivo como proyecto para obtener acceso al código fuente del videojuego. 
